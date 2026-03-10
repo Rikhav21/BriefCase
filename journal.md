@@ -1,4 +1,4 @@
-# Breifcase 
+# The Small
 ## Day 1
 Time spent: 8 hours
 Today I worked on research and coming up the idea. I want a 3d printer that can collapse into something a lot smaller. I got te idea from the [infini-Z](https://www.printables.com/model/581766-infini-z-3d-printer), which can print onto itself in order to grow. So I was thinking that this prnter could start out almost flat, then proceed
